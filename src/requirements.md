@@ -1,34 +1,37 @@
-Pages & Features
-Pages
+# Pages & Features
 
-Landing Page
--Welcome Text
--Go to Menu Button
--Go to About Us Button
--Go to Cart Button
+### Landing Page
+- Welcome Text
+- Go to Menu Button
+- Go to About Us Button (do you want this in the nav bar?)
+- Go to Cart Button (do you want this in the nav bar?)
 
-Menu Page
--Cookie Text
--Pricing Text
--Order Form
--Dropdown Options
+### Nav Bar
+- Link to About Us
+- Toggle Cart Modal (or go to page if it's not a modal)
 
-About Us Page
--Image of Mo
--About Mo Text
+### Menu Page
+- Cookie Text
+- Pricing Text
+- Order Form
+- Dropdown Options
 
-Cart Page
--User's Cart Order
--Order Button
--Edit Order Button
--Delete Order Button
+### About Us Page
+- Image of Mo
+- About Mo Text
 
-User's Information Page
--Order Form (User's name, address, email)
--Payment Form
--Submit Button
--Cancel Button
+### Cart Page
+- User's Cart Order
+- Order Button
+- Edit Order Button
+- Delete Order Button
 
-Modal
--Review User's Data and Order Text
--Submit Order
+### User's Information Page
+- Order Form (User's name, address, email)
+- Payment Form
+- Submit Button
+- Cancel Button
+
+### Modal
+- Review User's Data and Order Text
+- Submit Order
