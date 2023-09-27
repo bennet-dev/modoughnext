@@ -2,6 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = { cart: [] };
 
+// Just pointing out your flie name and slice name are mismathced. Maybe rename this to cart-slice?
 export const cookieSlice = createSlice({
   name: "CookieDough",
   initialState,
