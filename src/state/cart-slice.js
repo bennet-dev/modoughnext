@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = { cart: [] };
 
-export const cookieSlice = createSlice({
+export const cartSlice = createSlice({
   name: "CookieDough",
   initialState,
   reducers: {
