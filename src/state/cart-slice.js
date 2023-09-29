@@ -10,9 +10,9 @@ export const cartSlice = createSlice({
       const newItem = action.payload;
       state.cart.push(newItem);
     },
-    removeItemFromCart: (state, action) => {
-      const itemToRemove = action.payload;
-      state.cart = state.cart.filter((item) => item !== itemToRemove);
+    removeItemFromCartById: (state, action) => {
+      const itemId = action.payload;
+      state.cart = state.cart.filter((item) => item.id !== itemId);
     },
   },
 });

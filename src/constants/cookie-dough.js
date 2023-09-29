@@ -1,8 +1,9 @@
+//TODO: replace "oneDOzen", "twoDozen" with "basePrice"
+
 const cookieDough = [
   {
     title: "Chocolate Chip Cookie",
-    oneDozen: 10,
-    twoDozen: 18,
+    basePrice: 10,
   },
   {
     title: "Snickerdoodles",
